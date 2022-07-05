@@ -1,7 +1,6 @@
 
 
-### Hello 👋 I'm Second Year Undergrad Student in CS, I lam interested backend Development, Devops, DSA and mobile Dev.
-### Here is what i'm working On! 👋
+### Hello 👋 I'm Second Year Undergrad Student in CS, I am interested backend Development, Devops, DSA and mobile Dev.
 
 - 🔭 I’m currently working on ...Backend
 - 🌱 I’m currently learning ... Node js or backend and Dsa
