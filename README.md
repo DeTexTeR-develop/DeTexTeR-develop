@@ -9,5 +9,5 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... ujjwalsingh90official@gmail.com
 - 😄 Pronouns: ... his/him
-- ⚡ Fun fact: ... I think I love JS
+
 
