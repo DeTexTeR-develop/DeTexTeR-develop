@@ -9,6 +9,4 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... ujjwalsingh90official@gmail.com
 - 😄 Pronouns: ... his/him
-- <a href="https://app.daily.dev/detexter"><img src="https://api.daily.dev/devcards/v2/So6uut3yrAnVSlaO5nsnL.png?r=xcq&type=wide" width="652" alt="Ujjwal Singh's Dev Card"/></a>
-
-
+<a href="https://app.daily.dev/detexter"><img src="https://api.daily.dev/devcards/v2/So6uut3yrAnVSlaO5nsnL.png?r=xcq&type=default" width="356" alt="Ujjwal Singh's Dev Card"/></a>
